@@ -57,4 +57,6 @@ This guide is supplied solely for educational, and also informational purposes. 
 
 
 
-Update:  21.06.2025 08:49 Fixed broken url, now live
+
+
+Update: Fixed inaccessible link
