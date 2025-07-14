@@ -67,4 +67,6 @@ This guide is supplied solely for educational, and also informational purposes. 
 
 
 
-Update:  07/07/2025 11-57 Fixed broken links in API reference guide
+
+
+Update:  Monday 14 July 2025 Fixed dead external links in changelog
