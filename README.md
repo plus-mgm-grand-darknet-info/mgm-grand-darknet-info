@@ -69,4 +69,6 @@ This guide is supplied solely for educational, and also informational purposes. 
 
 
 
-Update:  Monday 14 July 2025 Fixed dead external links in changelog
+
+
+Update:  18.07.2025 url is alive
