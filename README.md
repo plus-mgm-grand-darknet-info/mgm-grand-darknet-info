@@ -71,4 +71,6 @@ This guide is supplied solely for educational, and also informational purposes. 
 
 
 
-Update:  18.07.2025 url is alive
+
+
+Update:  21 July
